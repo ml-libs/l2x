@@ -1,0 +1,5 @@
+include LICENSE
+include CHANGES.txt
+include README.rst
+graft l2x
+global-exclude *.pyc *.swp
