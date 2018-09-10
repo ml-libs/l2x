@@ -20,6 +20,12 @@ After that please install libraries required for development::
     $ pip install -r requirements-dev.txt
     $ pip install -e .
 
+Paper
+-----
+*Learning to Explain: An Information-Theoretic Perspective on Model Interpretation*
+Jianbo Chen, Le Song, Martin J. Wainwright, Michael I. Jordan
+https://arxiv.org/abs/1802.07814
+
 
 Requirements
 ------------
